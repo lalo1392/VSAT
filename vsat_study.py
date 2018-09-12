@@ -1,19 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-"""
-Proyecto 
-Calculo de Limites de Tranmsision del SEN
-"""
-
-__author__ = "Boris Alcaide"
-__copyright__ = "CENACE, 2018"
-__credits__ = ["Boris Alcaide", "Miguel Chavez", "Hugo Vega"]
-__version__ = "0.0.1"
-__maintainer__ = "Boris Alcaide"
-__email__ = "boris.alcaide@cenace.gob.mx"
-__status__ = "Prototype" 
-
 import os
 import re
 import sys
